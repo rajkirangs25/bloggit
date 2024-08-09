@@ -163,4 +163,5 @@ cython_debug/
 #.idea/
 
 # Custom
-cs_django_project/media/
+cs_django_project/media/profile_pics/*
+!cs_django_project/media/profile_pics/.gitignore
